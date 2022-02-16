@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Lecture notes.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/22-68j-superconducting-magnets-spring-2003/45c6e54c1d149657d3b260a069e6c169_lec8rev_24apr03.pdf
+file: /media/courses/22-68j-superconducting-magnets-spring-2003/45c6e54c1d149657d3b260a069e6c169_lec8rev_24apr03.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec8rev_24apr03.pdf
 uid: 45c6e54c-1d14-9657-d3b2-60a069e6c169
