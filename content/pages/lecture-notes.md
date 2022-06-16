@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides the lecture notes from the course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -41,7 +42,7 @@ Prospects and Challenges
 Minervini
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF 1 - 1 of 2 - 1.2 MB]({{< baseurl >}}/resources/fusion_magnets_1)) ([PDF 1 - 2 of 2 - 2.3 MB]({{< baseurl >}}/resources/fusion_magnets_2)) ([PDF 2 - 2.0 MB]({{< baseurl >}}/resources/lecture_1_1))
+({{% resource_link f1d7dd73-885e-ea72-dbed-6f1fd95f41fa "PDF 1 - 1 of 2 - 1.2 MB" %}}) ({{% resource_link 680a62d0-eedd-0143-51ea-57a2a179f330 "PDF 1 - 2 of 2 - 2.3 MB" %}}) ({{% resource_link d334eaab-5667-16b8-1db0-485c920ce18f "PDF 2 - 2.0 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -60,7 +61,7 @@ Time-varying fields
 Minervini
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF 1]({{< baseurl >}}/resources/all_pages_1)) ([PDF 2]({{< baseurl >}}/resources/figures)) ([PDF 3]({{< baseurl >}}/resources/mag_reynolds_num))
+({{% resource_link b9e73ba1-2b3e-9c00-b1d3-39f90de7f03b "PDF 1" %}}) ({{% resource_link c2c0bda2-ab14-4773-5663-7fb653b91980 "PDF 2" %}}) ({{% resource_link 0566f671-0cc0-05fe-e770-61ee1e8a3e56 "PDF 3" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -98,7 +99,7 @@ Stresses, Structural Design
 Minervini
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.9 MB]({{< baseurl >}}/resources/forces_stresses))
+({{% resource_link bebdae6c-350e-fd23-5d88-f92bb2258430 "PDF - 1.9 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -136,7 +137,7 @@ Cable-in-Conduit Conductors (CICC), HTS
 Iwasa
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF 1 of 3 - 2.1 MB]({{< baseurl >}}/resources/lec6rev_3apr03_1)) ([PDF 2 of 3 - 1.3 MB]({{< baseurl >}}/resources/lec6rev_3apr03_2)) ([PDF 3 of 3 - 2.6 MB]({{< baseurl >}}/resources/lec6rev_3apr03_3))
+({{% resource_link afdd0fae-d496-7a01-adc2-a6a2f0af85da "PDF 1 of 3 - 2.1 MB" %}}) ({{% resource_link 4399b179-9976-4260-4f73-6044318fbf78 "PDF 2 of 3 - 1.3 MB" %}}) ({{% resource_link 0a300450-f966-033f-ac5e-e5c8107fbe55 "PDF 3 of 3 - 2.6 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -155,7 +156,7 @@ Flux Jumping, Multifilaments, HTS Windings
 Minervini
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF 1 - 1.5 MB]({{< baseurl >}}/resources/lecture_7)) ([PDF 2]({{< baseurl >}}/resources/master))
+({{% resource_link f29f33cf-fcaa-ec75-9448-ff9b8e5370b8 "PDF 1 - 1.5 MB" %}}) ({{% resource_link 11b2fe62-143d-8d4b-ec3b-24e6287e4605 "PDF 2" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -174,7 +175,7 @@ The MPZ Concept, CICC
 Iwasa
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.2 MB]({{< baseurl >}}/resources/lec8rev_24apr03))
+({{% resource_link 45c6e54c-1d14-9657-d3b2-60a069e6c169 "PDF - 1.2 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -193,7 +194,7 @@ Splice and Mechanical Losses
 Minervini
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 2.8 MB]({{< baseurl >}}/resources/lec9_jvm_spr_03))
+({{% resource_link 28aebefd-b441-5cfb-b3ec-c6156d274831 "PDF - 2.8 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -212,7 +213,7 @@ HTS Magnets
 Iwasa
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 2.4 MB]({{< baseurl >}}/resources/lec10rev_08may03))
+({{% resource_link 37c4023b-468e-cddd-313f-9b50a6956637 "PDF - 2.4 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
