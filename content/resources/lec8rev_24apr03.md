@@ -5,6 +5,7 @@ file: /courses/22-68j-superconducting-magnets-spring-2003/45c6e54c1d149657d3b260
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec8rev_24apr03.pdf
 uid: 45c6e54c-1d14-9657-d3b2-60a069e6c169
 ---
 Lecture notes.
-

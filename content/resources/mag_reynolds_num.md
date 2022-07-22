@@ -5,6 +5,7 @@ file: /courses/22-68j-superconducting-magnets-spring-2003/0566f6710cc005fee77061
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: mag_reynolds_num.pdf
 uid: 0566f671-0cc0-05fe-e770-61ee1e8a3e56
 ---
 Lecture notes.
-
