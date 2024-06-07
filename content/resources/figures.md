@@ -2,6 +2,7 @@
 content_type: resource
 description: This handout contains figures and diagrams related to the lectures.
 file: /courses/22-68j-superconducting-magnets-spring-2003/c2c0bda2ab14477356637fb653b91980_figures.pdf
+file_size: 77913
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

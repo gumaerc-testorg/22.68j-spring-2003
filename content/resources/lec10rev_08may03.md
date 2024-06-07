@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes.
 file: /courses/22-68j-superconducting-magnets-spring-2003/37c4023b468ecddd313f9b50a6956637_lec10rev_08may03.pdf
+file_size: 2540753
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
