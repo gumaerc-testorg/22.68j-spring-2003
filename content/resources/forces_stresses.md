@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes.
 file: /courses/22-68j-superconducting-magnets-spring-2003/bebdae6c350efd235d88f92bb2258430_forces_stresses.pdf
+file_size: 2034222
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
