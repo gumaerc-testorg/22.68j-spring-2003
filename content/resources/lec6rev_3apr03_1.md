@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes.
-file: /ol-ocw-studio-app/courses/22-68j-superconducting-magnets-spring-2003/afdd0faed4967a01adc2a6a2f0af85da_lec6rev_3apr03_1.pdf
+file: /courses/22-68j-superconducting-magnets-spring-2003/afdd0faed4967a01adc2a6a2f0af85da_lec6rev_3apr03_1.pdf
 file_size: 2201530
 file_type: application/pdf
 learning_resource_types:
