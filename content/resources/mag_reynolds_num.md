@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes.
-file: /ol-ocw-studio-app/courses/22-68j-superconducting-magnets-spring-2003/0566f6710cc005fee77061ee1e8a3e56_mag_reynolds_num.pdf
+file: /courses/22-68j-superconducting-magnets-spring-2003/0566f6710cc005fee77061ee1e8a3e56_mag_reynolds_num.pdf
 file_size: 124990
 file_type: application/pdf
 learning_resource_types:
