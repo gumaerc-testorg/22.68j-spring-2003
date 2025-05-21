@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes.
-file: /ol-ocw-studio-app/courses/22-68j-superconducting-magnets-spring-2003/f1d7dd73885eea72dbed6f1fd95f41fa_fusion_magnets_1.pdf
+file: /courses/22-68j-superconducting-magnets-spring-2003/f1d7dd73885eea72dbed6f1fd95f41fa_fusion_magnets_1.pdf
 file_size: 1294149
 file_type: application/pdf
 learning_resource_types:
