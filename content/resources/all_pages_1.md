@@ -4,7 +4,7 @@ description: 'Lecture notes. Selected aspects of electromagnetic theory are revi
   in this section, with emphasis on
 
   concepts which are useful in understanding magnet design.'
-file: /courses/22-68j-superconducting-magnets-spring-2003/b9e73ba12b3e9c00b1d339f90de7f03b_all_pages_1.pdf
+file: /ol-ocw-studio-app/courses/22-68j-superconducting-magnets-spring-2003/b9e73ba12b3e9c00b1d339f90de7f03b_all_pages_1.pdf
 file_size: 210065
 file_type: application/pdf
 learning_resource_types:
